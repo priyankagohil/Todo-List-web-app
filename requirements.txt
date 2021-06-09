@@ -1,7 +1,7 @@
-asgiref
-Django
-Pillow
-pytz
-sqlparse
+#asgiref
+#Django
+#Pillow
+#pytz
+#sqlparse
 
 
